@@ -1,2 +1,3 @@
 # sanju
-this is my dirst Git Repository
+this is my dirst Git Repository.
+author - sanjana
