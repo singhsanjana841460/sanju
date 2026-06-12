@@ -1,4 +1,4 @@
 # sanju
-this is my dirst Git Repository.
+this is my first Git Repository.
 <br>
 author - sanjana
